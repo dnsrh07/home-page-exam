@@ -42,6 +42,11 @@ nav {
 		background-size: cover;
 }
 
+#carouselPix{
+	padding-left: 0px;
+  padding-right: 0px;
+}
+
 #marketing{
 	background-color: #FCC737;
 	color: #7E1891 !important;
@@ -78,18 +83,23 @@ nav {
 		background-size: cover;
 }
 
-#card3{
+#card3 {
 	background: 
 		url("./images/korea.png");
 		background-repeat: no-repeat;
 		background-size: cover;
 }
 
-.card button{
+.card button {
 	background-color: #7E1891;
 	color: #FCC737;
 
 }
+
+/*.promoCard {
+	padding-left: 0px;
+  padding-right: 0px;
+}*/
 
 mark {
   color: #7E1891;
